@@ -1,0 +1,16 @@
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\bin\Debug\Observer.dll
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\bin\Debug\Observer.pdb
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\obj\Debug\MainWindow.g.cs
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\obj\Debug\App.g.cs
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns_MarkupCompile.cache
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns_MarkupCompile.lref
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\obj\Debug\MainWindow.baml
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.g.resources
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.Properties.Resources.resources
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.GenerateResource.Cache
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\Dnomyar96\Source\Repos\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
